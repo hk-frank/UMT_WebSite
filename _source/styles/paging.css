@@ -1,0 +1,9 @@
+.b_paging { padding:20px 0px; color:#666666; font:14px tahoma, Arial; text-align:center; line-height:28px; }
+.b_paging a,
+.b_paging em { background-color:#ffffff; display:inline-block; height:28px; padding:0 10px; border:1px solid #e0e0e0; color:#666; margin-right:6px; cursor:pointer; vertical-align:middle; text-align: center; font-style:normal; }
+.b_paging a:hover { color:#18a8f1; border:1px solid #18a8f1; background-color:#ffffff; }
+.b_paging .cur { color:#ffffff; border:1px solid #18a8f1; background-color:#18a8f1; font-weight:bold; }
+.b_paging .dot { cursor:default; }
+.b_paging .pre, .b_paging .next {}
+.b_paging .disable, .b_paging .disable:hover { border:1px solid #ececec; background-color:#ececec; color:#aaaaaa; cursor:default; }
+.b_paging .disable span { cursor:default; }

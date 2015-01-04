@@ -1,0 +1,26 @@
+.main_header_expand { z-index:200; }
+.main_header_expand .submenuline { height:7px; line-height:0px; font-size:0px; background-color:#1588c3; }
+.main_header_expand .submenubox { background-color:#18a7f1; height:39px; line-height:39px; color:#fff; }
+.main_header_expand .submenubox .submenu { width:1000px; margin:0px auto; text-align:right; font-size:14px; }
+.main_header_expand .submenubox .subtitle { float:left; display:inline; padding:0 25px; line-height:66px; font-size:32px; position:relative; height:66px; background-color:#18a7f1; z-index:200; }
+.main_header_expand .submenubox .subtitle .arrow { position:absolute; top:66px; left:50%; background:url("../images/icon_arrow_04.png") 0 0 no-repeat; margin-left:-6px; width:13px; height:11px; line-height:0px; font-size:0px; }
+.main_header_expand .submenubox .sublinkbox { float:right; display:inline; }
+.main_header_expand .submenubox .sublink,
+.main_header_expand .submenubox .sublink:hover { position:relative; float:left; display:inline; color:#fff; margin-left:40px; }
+
+.main_header_expand .submenubox .sublink .arrow { display:none; width:13px; height:7px; background:url("../images/icon_07.jpg") 0 0 no-repeat; position:absolute; top:32px; left:50%; line-height:0px; font-size:0px; margin-left:-6px; }
+.main_header_expand .submenubox .current .arrow { display:block; }
+
+.page_container { z-index:100; }
+.page_container .focusbox { background:url("../images/image_040.jpg") 0 0 no-repeat; width:1000px; height:250px; }
+.page_container .listitem { }
+.page_container .listitem .item { border-bottom:1px solid #cccccc; padding:20px; }
+.page_container .listitem .datebox { background-color:#ebf8ff; width:78px; height:74px; color:#18a6f0; float:left; display:inline; text-align:center; }
+.page_container .listitem .day { font-size:53px; line-height:53px; }
+.page_container .listitem .month { font-size:15px; }
+.page_container .listitem .infobox { float:right; display:inline; width:860px; margin-left:20px; }
+.page_container .listitem .tit,
+.page_container .listitem .link { font-size:18px; color:#18a6f0; line-height:30px; }
+.page_container .listitem .des { font-size:12px; line-height:24px; margin-top:5px; }
+.page_container .listitem .more { background:url("../images/icon_04.jpg") right 1px no-repeat; line-height:24px; padding-right:10px; color:#18a7f1; margin-left:10px; }
+

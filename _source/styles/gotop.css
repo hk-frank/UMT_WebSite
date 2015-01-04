@@ -1,0 +1,25 @@
+* { padding:0px; margin:0px; }
+*html { background-image:url(about:blank); background-attachment:fixed; }
+.gotop_blue .iconuser,
+.gotop_blue .iconweixin,
+.gotop_blue .icongotop  { width:50px; height:50px; background:url("../images/gotop_blue.jpg") no-repeat; position:fixed; right:50px; cursor:pointer; _position:absolute;_bottom:auto;_top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0))); }
+
+.gotop_orange .iconuser,
+.gotop_orange .iconweixin,
+.gotop_orange .icongotop  { width:50px; height:50px; background:url("../images/gotop_orange.jpg") no-repeat; position:fixed; right:50px; cursor:pointer; _position:absolute;_bottom:auto;_top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0))); }
+
+.gotop_green .iconuser,
+.gotop_green .iconweixin,
+.gotop_green .icongotop  { width:50px; height:50px; background:url("../images/gotop_green.jpg") no-repeat; position:fixed; right:50px; cursor:pointer; _position:absolute;_bottom:auto;_top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0))); }
+
+.gotop_brown .iconuser,
+.gotop_brown .iconweixin,
+.gotop_brown .icongotop  { width:50px; height:50px; background:url("../images/gotop_brown.jpg") no-repeat; position:fixed; right:50px; cursor:pointer; _position:absolute;_bottom:auto;_top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0))); }
+
+.scrollbox .iconuser { background-position:0px -50px; bottom:100px; _margin-bottom:100px; width:48px; height:49px; border-left:1px solid #e7e7e7; border-right:1px solid #e7e7e7; border-top:1px solid #e7e7e7; }
+.scrollbox .iconuser:hover { background-position:-50px -50px; width:50px; height:50px; border:0 none; }
+.scrollbox .iconweixin { background-position:0px -100px; bottom:50px; _margin-bottom:50px; width:48px; height:49px; border-left:1px solid #e7e7e7; border-right:1px solid #e7e7e7; border-bottom:1px solid #e7e7e7; }
+.scrollbox .iconweixin:hover { background-position:-50px -100px; width:50px; height:50px; border:0 none; }
+.scrollbox .icongotop { background-position:-50px 0px; bottom:150px; _margin-bottom:150px; } 
+
+

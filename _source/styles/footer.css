@@ -1,0 +1,29 @@
+.main_footer_expand { position:relative; margin-top:30px; height:140px; font-size:12px; }
+.main_footer { width:1000px; margin:0px auto; line-height:18px; }
+.main_footer .menulist { color:#ffffff; }
+.main_footer .menubox { width:762px; height:79px; background-color:#18a7f1; }
+.main_footer .menubox .tit { float:left; display:inline; background:url("../images/image_030.jpg") 0 0 no-repeat; width:117px; height:41px; margin:18px 10px 0px 20px; }
+.main_footer .menubox .list { float:left; display:inline; width:600px; margin-top:4px; }
+.main_footer .menubox .link { float:left; display:inline; background:url("../images/icon_06.jpg") 0 5px no-repeat; padding-left:10px; margin:10px 55px 0 20px; line-height:20px; color:#ffffff; white-space:nowrap; }
+.main_footer .weixin { float:right; display:inline; background:url("../images/image_031.jpg") 0 0 no-repeat; width:218px; height:79px; }
+.main_info { text-align:center; font-size:12px; line-height:40px; }
+.main_info .linkbox	{ float:right; display:inline; width:218px; }
+.main_info .copyright { width:762px; height:40px; }
+
+.footer_orange .menubox { width:762px; height:79px; background-color:#ff9000; }
+.footer_orange .menubox .tit { background:url("../images/image_030_orange.jpg") 0 0 no-repeat; }
+.footer_orange .menubox .link { background:url("../images/icon_06_orange.jpg") 0 5px no-repeat; }
+.footer_orange .weixin { background:url("../images/image_031_orange.jpg") 0 0 no-repeat; }
+
+.footer_green .menubox { width:762px; height:79px; background-color:#387b2b; }
+.footer_green .menubox .tit { background:url("../images/image_030_green.jpg") 0 0 no-repeat; }
+.footer_green .menubox .link { background:url("../images/icon_06_green.jpg") 0 5px no-repeat; }
+.footer_green .weixin { background:url("../images/image_031_green.jpg") 0 0 no-repeat; }
+
+.footer_brown .menubox { width:762px; height:79px; background-color:#8a7967; }
+.footer_brown .menubox .tit { background:url("../images/image_030_brown.jpg") 0 0 no-repeat; }
+.footer_brown .menubox .link { background:url("../images/icon_06_brown.jpg") 0 5px no-repeat; }
+.footer_brown .weixin { background:url("../images/image_031_brown.jpg") 0 0 no-repeat; }
+
+
+

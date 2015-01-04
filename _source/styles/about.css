@@ -1,0 +1,39 @@
+.main_header_expand { z-index:200; }
+.main_header_expand .submenuline { height:7px; line-height:0px; font-size:0px; background-color:#1588c3; }
+.main_header_expand .submenubox { background-color:#18a7f1; height:39px; line-height:39px; color:#fff; }
+.main_header_expand .submenubox .submenu { width:1000px; margin:0px auto; text-align:right; font-size:14px; }
+.main_header_expand .submenubox .subtitle { float:left; display:inline; padding:0 25px; line-height:66px; font-size:32px; position:relative; height:66px; background-color:#18a7f1; z-index:200; }
+.main_header_expand .submenubox .subtitle .arrow { position:absolute; top:66px; left:50%; background:url("../images/icon_arrow_04.png") 0 0 no-repeat; margin-left:-6px; width:13px; height:11px; line-height:0px; font-size:0px; }
+.main_header_expand .submenubox .sublinkbox { float:right; display:inline; }
+.main_header_expand .submenubox .sublink,
+.main_header_expand .submenubox .sublink:hover { position:relative; float:left; display:inline; color:#fff; margin-left:40px; }
+
+.main_header_expand .submenubox .sublink .arrow { display:none; width:13px; height:7px; background:url("../images/icon_07.jpg") 0 0 no-repeat; position:absolute; top:32px; left:50%; line-height:0px; font-size:0px; margin-left:-6px; }
+.main_header_expand .submenubox .current .arrow { display:block; }
+
+.page_container { z-index:100; }
+.page_container .focusbox { background:url("../images/image_044.jpg") 0 0 no-repeat; width:1000px; height:250px; }
+
+.page_main .box_l { width:705px; }
+.page_main .newlistbox { width:678px; }
+.page_main .newlistbox .imgbox { background:url("../images/image_045.jpg") 0 0 no-repeat; width:678px; height:216px; margin-top:30px; }
+.page_main .newlistbox .txtbox { line-height:24px; margin-top:20px; }
+
+
+.page_main .box_r { width:295px; overflow:hidden; }
+.page_main .box_r .trendbox { margin-top:10px; }
+.page_main .box_r .hd { font-size:20px; color:#18a7f1; line-height:50px; position:relative; height:50px; }
+.page_main .box_r .hd .arrow { position:absolute; top:38px; left:30px; background:url("../images/icon_arrow_03.png") 0 0 no-repeat; width:14px; height:14px; }
+.page_main .box_r .hd .more { font-size:12px; float:right; display:inline; }
+.page_main .box_r .ct { width:253px; border:1px solid #e1e1e2; overflow:hidden; padding:10px 20px; }
+.page_main .box_r .listitem {  }
+.page_main .box_r .item { border-bottom:1px dashed #e1e1e2; padding:12px 0; }
+.page_main .box_r .last { border-bottom:0 none; }
+.page_main .box_r .tit { }
+.page_main .box_r .info { line-height:18px; margin-top:10px; height:20px; font-size:12px; }
+.page_main .box_r .info2 { line-height:18px; height:20px; font-size:12px; }
+.page_main .box_r .num { float:left; display:inline; background:url("../images/icon_02.jpg") 0 1px no-repeat; padding-left:24px; white-space:nowrap; margin-left:20px; }
+.page_main .box_r .date { float:left; display:inline; background:url("../images/icon_03.jpg") 0 1px no-repeat; padding-left:20px; white-space:nowrap; }
+.page_main .box_r .city { float:left; display:inline; background:url("../images/icon_05.jpg") 0 1px no-repeat; padding-left:20px; white-space:nowrap; }
+.page_main .box_r .noticebox { margin-top:5px; }
+

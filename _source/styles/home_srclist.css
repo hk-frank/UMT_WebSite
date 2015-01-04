@@ -1,0 +1,10 @@
+@charset "utf-8";
+/**
+ * @项目 美国管理技术大学网站
+ * @创建日期 2015-01-03
+ */
+@import url("base.css");
+@import url("header.css");
+@import url("footer.css");
+@import url("gotop.css");
+@import url("home.css");

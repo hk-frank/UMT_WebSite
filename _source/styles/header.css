@@ -1,0 +1,35 @@
+.main_header_expand { }
+.main_header_expand .topmenubox { background:#fff url("../images/bg_top.jpg") 0 0 repeat-x; height:36px; }
+.main_header_expand .topmenu { width:1000px; margin:0 auto; height:36px; font-size:14px; line-height:36px; text-align:right; padding-right:10px;  }
+.main_header { position:relative; height:120px; width:1000px; margin:0 auto; }
+.main_header .logobox { position:absolute; top:25px; left:0px; width:275px; height:82px; background:url("../images/img_logo.jpg") 0 0 no-repeat; }
+.main_header .phonebox { position:absolute; top:25px; right:0px; font-size:14px; line-height:20px; white-space:nowrap; }
+.main_header .phone { color:#18a7f1; font-size:18px; font-family:arial; font-weight:bold; white-space:nowrap; }
+.main_header .menubox { position:absolute; top:70px; right:-12px; z-index:100; }
+.main_header .menubox .list_item { }
+.main_header .menubox .list_item .item { position:relative; float:left; display:inline; font-family:"microsoft yahei"; font-size:14px; white-space:nowrap; }
+.main_header .menubox .list_item .item .link { padding:0px 15px; }
+.main_header .menubox .list_item .current .link { color:#f3d400; }
+.main_header .menubox .list_item .current .arrow { display:block; }
+
+.main_header .menubox .list_item .sub_list_item { visibility:hidden; position:absolute; left:-5px; top:25px; } 
+.main_header .menubox .list_item table { position:absolute; top:0; left:0; } 
+.main_header .menubox .list_item .item:hover .sub_list_item, 
+.main_header .menubox .list_item .link:hover .sub_list_item { visibility:visible; } 
+.main_header .menubox .list_item .link { display:block; height:30px; }
+.main_header .menubox .list_item .sub_item { clear:both; background-color:#fff; line-height:30px;  } 
+.main_header .menubox .list_item .sub_item .sublink { display:block; height:30px; margin:0; padding:0 20px; border-bottom:1px solid #e7e7e7; } 
+
+#divSmallBox { overflow:hidden; *display:inline; *zoom:1; width:10px; height:10px; margin:0 5px; border-radius:10px; background:#ffffff;}
+#playBox { width:1000px; height:300px; margin:20px auto; background:#333; position:relative; overflow:hidden;}
+#playBox .oUlplay { width:99999px; position:absolute; left:0; top:0;}
+#playBox .oUlplay li { float:left;}
+#playBox .pre { cursor:pointer; width:36px; height:55px; background:url("../images/btn_left.jpg") no-repeat; position:absolute; top:122px; left:10px; z-index:10;}
+#playBox .next { cursor:pointer; width:36px; height:55px; background:url("../images/btn_right.jpg") no-repeat; position:absolute; top:122px; right:10px; z-index:10;}
+#playBox .smalltitle { width:1000px; height:10px; position:absolute; bottom:15px; z-index:10}
+#playBox .smalltitle ul { width:120px; margin:0 auto;}
+#playBox .smalltitle ul li { width:10px; height:10px; margin:0 5px; border-radius:10px; background:#ffffff; float:left; overflow:hidden;*display:inline;*zoom:1;}
+#playBox .smalltitle .thistitle { background:#69aaec;}
+
+
+
